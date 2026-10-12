@@ -1,0 +1,12 @@
+{
+  "name": "ARJUNA KOST PAKAM",
+  "short_name": "ARJUNA",
+  "description": "Smart Living & Services",
+  "start_url": "./#/",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf9f5",
+  "theme_color": "#073d33",
+  "lang": "id",
+  "icons": [{ "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
